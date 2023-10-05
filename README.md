@@ -1,7 +1,7 @@
 # PREVISÃO DO TEMPO
 
 ## Descrição
-Uma API inicial de previsão do tempo. Onde, através de uma busca por cidade você fica sabendo de como está o clima em tempo real.
+O primeiro projeto em JavaScript, quando tive meu primeiro contato com a tecnologia. Uma API inicial de previsão do tempo. Onde, através de uma busca por cidade você fica sabendo de como está o clima em tempo real.
 
 ## Funcionalidades
 * <b>Consulta de Previsão do tempo</b>: Quando a requisição for feita, é retornada os dados do clima da cidade desejada.
@@ -24,8 +24,12 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 <img src="/imagem/respostaApp.png">
 
 
-## :soon: Implementação futura
-* O que será implementado na próxima sprint?
+## Descrição técnica
+
+App feito com uso de API externa ( https://openweathermap.org/ ), uso dos principios básicos de API, ainda sem estrutura de pastas e uso do Node.Js.
+
+
+
 
 ## :handshake: Colaboradores
 <table>
