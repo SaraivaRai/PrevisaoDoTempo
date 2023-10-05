@@ -1,19 +1,28 @@
-<h1 align="center">:file_cabinet: Exemplo de README.md</h1>
+# Exemplo de README.md
 
 ## :memo: Descrição
 Uma API inicial de previsão do tempo. Onde, através de uma busca por cidade você fica sabendo de como está o clima em tempo real.
 
-## :books: Funcionalidades
-* <b>Funcionalidade 1</b>: O que essa funcionalidade faz?
+## Funcionalidades
+* <b>Consulta de Previsão do tempo</b>: Quando a requisição for feita, é retornada os dados do clima da cidade desejada.
 
-## :wrench: Tecnologias utilizadas
-* Tecnologia;
+## Tecnologias utilizadas
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## :rocket: Rodando o projeto
+## Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 
-Execute o arquivo (index.js) selecionando uma navegador para rodar o arquivo.
-<img src="Projetos\Previsao do tempo\inicializandoApp.png>
+- Execute o arquivo (index.js) selecionando uma navegador para rodar o arquivo.</br>
+<img src="/imagem/inicializandoApp.png">
+
+- Na pagina Inicial é só digitar a cidade desejada no campo (digite o nome da cidade).
+(imagem: paginaInicial.png)
+
+- Após digitar os dados da previsão do tempo são fornecidas.
+(imagem: respostaApp.png)
+
 
 ## :soon: Implementação futura
 * O que será implementado na próxima sprint?
