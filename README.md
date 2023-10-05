@@ -28,21 +28,3 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 
 App feito com uso de API externa ( https://openweathermap.org/ ), uso dos principios básicos de API, ainda sem estrutura de pastas e uso do Node.Js.
 
-
-
-
-## :handshake: Colaboradores
-<table>
-  <tr>
-    <td align="center">
-      <a href="http://github.com/SaraivaRai">
-        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
-        <sub>
-          <b>tatialveso</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-## :dart: Status do projeto
