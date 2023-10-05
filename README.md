@@ -1,6 +1,6 @@
-# Exemplo de README.md
+# PREVISÃO DO TEMPO
 
-## :memo: Descrição
+## Descrição
 Uma API inicial de previsão do tempo. Onde, através de uma busca por cidade você fica sabendo de como está o clima em tempo real.
 
 ## Funcionalidades
@@ -17,11 +17,11 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 - Execute o arquivo (index.js) selecionando uma navegador para rodar o arquivo.</br>
 <img src="/imagem/inicializandoApp.png">
 
-- Na pagina Inicial é só digitar a cidade desejada no campo (digite o nome da cidade).
-(imagem: paginaInicial.png)
+- Na pagina Inicial é só digitar a cidade desejada no campo (digite o nome da cidade).</br>
+<img src="/imagem/paginaInicial.png">
 
-- Após digitar os dados da previsão do tempo são fornecidas.
-(imagem: respostaApp.png)
+- Após digitar os dados da previsão do tempo são fornecidas.</br>
+<img src="/imagem/respostaApp.png">
 
 
 ## :soon: Implementação futura
